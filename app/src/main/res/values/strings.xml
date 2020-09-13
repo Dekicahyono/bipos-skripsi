@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bipos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="deliveryType_array">
+        <item>JNE</item>
+        <item>TIKI</item>
+        <item>Si Cepat</item>
+    </string-array>
+
+    <string-array name="purchaseTyp_array">
+        <item>Transfer BCA - 123123 a/n Deki</item>
+        <item>COD</item>
+    </string-array>
+
+</resources>
